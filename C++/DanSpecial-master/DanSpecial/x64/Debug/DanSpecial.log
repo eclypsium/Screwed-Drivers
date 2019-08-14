@@ -1,0 +1,19 @@
+﻿  DanSpecial.cpp
+c:\users\mickey\documents\github\screweddrivers\c++\danspecial-master\danspecial\ntdefines.h(20): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  c:\users\mickey\documents\github\screweddrivers\c++\danspecial-master\danspecial\ntdefines.h(20): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+c:\users\mickey\documents\github\screweddrivers\c++\danspecial-master\danspecial\driverloader.h(78): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+c:\users\mickey\documents\github\screweddrivers\c++\danspecial-master\danspecial\driverloader.h(129): warning C4267: '=': conversion from 'size_t' to 'USHORT', possible loss of data
+c:\users\mickey\documents\github\screweddrivers\c++\danspecial-master\danspecial\driverloader.h(130): warning C4267: '=': conversion from 'size_t' to 'USHORT', possible loss of data
+c:\users\mickey\documents\github\screweddrivers\c++\danspecial-master\danspecial\driverloader.h(154): warning C4267: '=': conversion from 'size_t' to 'USHORT', possible loss of data
+c:\users\mickey\documents\github\screweddrivers\c++\danspecial-master\danspecial\driverloader.h(155): warning C4267: '=': conversion from 'size_t' to 'USHORT', possible loss of data
+c:\users\mickey\documents\github\screweddrivers\c++\danspecial-master\danspecial\driverloader.h(232): warning C4477: 'printf' : format string '%08x' requires an argument of type 'unsigned int', but variadic argument 2 has type 'HANDLE'
+c:\users\mickey\documents\github\screweddrivers\c++\danspecial-master\danspecial\driverloader.h(232): warning C4313: 'printf': '%x' in format string conflicts with argument 2 of type 'HANDLE'
+c:\users\mickey\documents\github\screweddrivers\c++\danspecial-master\danspecial\danspecial.cpp(187): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'uintptr_t'
+  c:\users\mickey\documents\github\screweddrivers\c++\danspecial-master\danspecial\danspecial.cpp(187): note: consider using '%llx' in the format string
+  c:\users\mickey\documents\github\screweddrivers\c++\danspecial-master\danspecial\danspecial.cpp(187): note: consider using '%Ix' in the format string
+  c:\users\mickey\documents\github\screweddrivers\c++\danspecial-master\danspecial\danspecial.cpp(187): note: consider using '%I64x' in the format string
+c:\users\mickey\documents\github\screweddrivers\c++\danspecial-master\danspecial\danspecial.cpp(289): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 2 has type 'uintptr_t'
+c:\users\mickey\documents\github\screweddrivers\c++\danspecial-master\danspecial\danspecial.cpp(297): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 2 has type 'uintptr_t'
+c:\users\mickey\documents\github\screweddrivers\c++\danspecial-master\danspecial\ntdefines.h(37): warning C4244: 'return': conversion from 'uint64_t' to 'NTSTATUS', possible loss of data
+  c:\users\mickey\documents\github\screweddrivers\c++\danspecial-master\danspecial\ntdefines.h(48): note: see reference to function template instantiation 'NTSTATUS __NtRoutine<DWORD&,unsigned __int64,DWORD&,BOOLEAN*>(const char *,DWORD &,unsigned __int64 &&,DWORD &,BOOLEAN *&&)' being compiled
+  DanSpecial.vcxproj -> C:\Users\Mickey\Documents\GitHub\ScrewedDrivers\C++\DanSpecial-master\x64\Debug\DanSpecial.exe

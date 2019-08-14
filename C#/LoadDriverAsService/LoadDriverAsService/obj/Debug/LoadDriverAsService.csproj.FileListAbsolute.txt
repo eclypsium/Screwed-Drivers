@@ -1,0 +1,21 @@
+C:\Users\Mickey\source\repos\LoadDriverAsService\LoadDriverAsService\bin\Debug\LoadDriverAsService.exe.config
+C:\Users\Mickey\source\repos\LoadDriverAsService\LoadDriverAsService\bin\Debug\LoadDriverAsService.exe
+C:\Users\Mickey\source\repos\LoadDriverAsService\LoadDriverAsService\bin\Debug\LoadDriverAsService.pdb
+C:\Users\Mickey\source\repos\LoadDriverAsService\LoadDriverAsService\obj\Debug\LoadDriverAsService.csprojAssemblyReference.cache
+C:\Users\Mickey\source\repos\LoadDriverAsService\LoadDriverAsService\obj\Debug\LoadDriverAsService.csproj.CoreCompileInputs.cache
+C:\Users\Mickey\source\repos\LoadDriverAsService\LoadDriverAsService\obj\Debug\LoadDriverAsService.exe
+C:\Users\Mickey\source\repos\LoadDriverAsService\LoadDriverAsService\obj\Debug\LoadDriverAsService.pdb
+C:\Users\Mickey\Desktop\Eclypsium\Research\wormhole drivers\Github staging\LoadDriverAsService\LoadDriverAsService\bin\Debug\LoadDriverAsService.exe.config
+C:\Users\Mickey\Desktop\Eclypsium\Research\wormhole drivers\Github staging\LoadDriverAsService\LoadDriverAsService\bin\Debug\LoadDriverAsService.exe
+C:\Users\Mickey\Desktop\Eclypsium\Research\wormhole drivers\Github staging\LoadDriverAsService\LoadDriverAsService\bin\Debug\LoadDriverAsService.pdb
+C:\Users\Mickey\Desktop\Eclypsium\Research\wormhole drivers\Github staging\LoadDriverAsService\LoadDriverAsService\obj\Debug\LoadDriverAsService.csprojAssemblyReference.cache
+C:\Users\Mickey\Desktop\Eclypsium\Research\wormhole drivers\Github staging\LoadDriverAsService\LoadDriverAsService\obj\Debug\LoadDriverAsService.csproj.CoreCompileInputs.cache
+C:\Users\Mickey\Desktop\Eclypsium\Research\wormhole drivers\Github staging\LoadDriverAsService\LoadDriverAsService\obj\Debug\LoadDriverAsService.exe
+C:\Users\Mickey\Desktop\Eclypsium\Research\wormhole drivers\Github staging\LoadDriverAsService\LoadDriverAsService\obj\Debug\LoadDriverAsService.pdb
+C:\Users\Mickey\Documents\GitHub\ScrewedDrivers\C#\LoadDriverAsService\LoadDriverAsService\bin\Debug\LoadDriverAsService.exe.config
+C:\Users\Mickey\Documents\GitHub\ScrewedDrivers\C#\LoadDriverAsService\LoadDriverAsService\bin\Debug\LoadDriverAsService.exe
+C:\Users\Mickey\Documents\GitHub\ScrewedDrivers\C#\LoadDriverAsService\LoadDriverAsService\bin\Debug\LoadDriverAsService.pdb
+C:\Users\Mickey\Documents\GitHub\ScrewedDrivers\C#\LoadDriverAsService\LoadDriverAsService\obj\Debug\LoadDriverAsService.csprojAssemblyReference.cache
+C:\Users\Mickey\Documents\GitHub\ScrewedDrivers\C#\LoadDriverAsService\LoadDriverAsService\obj\Debug\LoadDriverAsService.csproj.CoreCompileInputs.cache
+C:\Users\Mickey\Documents\GitHub\ScrewedDrivers\C#\LoadDriverAsService\LoadDriverAsService\obj\Debug\LoadDriverAsService.exe
+C:\Users\Mickey\Documents\GitHub\ScrewedDrivers\C#\LoadDriverAsService\LoadDriverAsService\obj\Debug\LoadDriverAsService.pdb
