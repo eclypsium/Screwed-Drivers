@@ -1,7 +1,0 @@
-C:\Users\Mickey\Documents\GitHub\ScrewedDrivers\C#\exampleApplication\exampleApplication\bin\Debug\exampleApplication.exe.config
-C:\Users\Mickey\Documents\GitHub\ScrewedDrivers\C#\exampleApplication\exampleApplication\bin\Debug\exampleApplication.exe
-C:\Users\Mickey\Documents\GitHub\ScrewedDrivers\C#\exampleApplication\exampleApplication\bin\Debug\exampleApplication.pdb
-C:\Users\Mickey\Documents\GitHub\ScrewedDrivers\C#\exampleApplication\exampleApplication\obj\Debug\exampleApplication.csprojAssemblyReference.cache
-C:\Users\Mickey\Documents\GitHub\ScrewedDrivers\C#\exampleApplication\exampleApplication\obj\Debug\exampleApplication.csproj.CoreCompileInputs.cache
-C:\Users\Mickey\Documents\GitHub\ScrewedDrivers\C#\exampleApplication\exampleApplication\obj\Debug\exampleApplication.exe
-C:\Users\Mickey\Documents\GitHub\ScrewedDrivers\C#\exampleApplication\exampleApplication\obj\Debug\exampleApplication.pdb
