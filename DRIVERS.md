@@ -1,3 +1,5 @@
+### Vulnerable Drivers
+
 | sha256                                                           | filename           | Signer information, Name:                          | Co-Signer                                          | where to find the drivers or more info                                                                                                |
 |------------------------------------------------------------------|--------------------|----------------------------------------------------|----------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
 | b4d47ea790920a4531e3df5a4b4b0721b7fea6b49a35679f0652f1e590422602 | AsUpIO64.sys       | ASUSTeK Computer Inc.                              |                                                    | https://codeinsecurity.wordpress.com/2016/06/12/asus-uefi-update-driver-physical-memory-readwrite/                                    |
@@ -40,6 +42,7 @@
 | 9f1229cd8dd9092c27a01f5d56e3c0d59c2bb9f0139abf042e56f343637fda33 | semav6msr.sys      | Intel (R) Code Signing External                    |                                                    | Intel® Computing Improvement Program                                                                                                  |
 | b03f26009de2e8eabfcf6152f49b02a55c5e5d0f73e01d48f5a745f93ce93a29 | piddrv64.sys       | Microsoft Windows Hardware Compatibility Publisher |                                                    | Intel® Processor Identification Utility for Windows                                                                                   |
 
+### Signed tools which can be used to load drivers
 
 | filename     | Signer information, Name: | Location                                                                                                                |
 |--------------|---------------------------|-------------------------------------------------------------------------------------------------------------------------|
