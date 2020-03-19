@@ -143,7 +143,7 @@ def check_mmmapiospace(found_path):
 	if (found_path.regs.rcx.symbolic and found_path.regs.edx.symbolic):
 		print("Found MmMapIoSpace with arbitrary address AND size!")
 	elif (found_path.regs.rcx.symbolic and (not found_path.regs.edx.symbolic)):
-		print("Found WRMSR with arbitrary address and fixed size!")
+		print("Found MmMapIoSpace with arbitrary address and fixed size!")
 
 	print("MmMapIoSpace Address: symbolic=%s, value=%s" % (found_path.regs.rcx.symbolic, found_path.regs.rcx))
 	print("MmMapIoSpace Size: symbolic=%s, value=%s" % (found_path.regs.edx.symbolic, found_path.regs.edx))
